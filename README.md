@@ -34,5 +34,8 @@ Ubuntu 14.04 or 16.04, Centos 7 and other distributions.
 cd into Data folder of project and run the shell scripts under the Data folder.
 Please manually download the dataset from and tar each tar.gz file, and move them in to **Data** folder.
 
+## 3. Proposed Average Precision Delay Metric
 
-## 3. Testing on saved models
+![scalars_tensorboard](figures/alarm.png)
+
+## 4. Testing on saved models
