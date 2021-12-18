@@ -1,7 +1,7 @@
 # NOLA
 Repository for the NOLA dataset proposed in our paper Rethinking Video Anomaly Detection-A Continual Learning Approach.
 
-![scalars_tensorboard]("figures/cl_framework.png")
+![scalars_tensorboard](figures/cl_framework.png)
 
 It is implemented in tensorflow. Please follow the instructions to run the code.
 
