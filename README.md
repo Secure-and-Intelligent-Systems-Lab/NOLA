@@ -31,8 +31,7 @@ Cudnn 6.0
 Ubuntu 14.04 or 16.04, Centos 7 and other distributions.
 ```
 ## 2. Download datasets
-cd into Data folder of project and run the shell scripts under the Data folder.
-Please manually download the dataset from and tar each tar.gz file, and move them in to **Data** folder.
+Please manually download the dataset from https://usf.box.com/s/urj8c65lrell37oi2dzuno47jgout810 and extract it, and move them in to **Data** folder.
 
 ## 3. Proposed Average Precision Delay Metric
 
