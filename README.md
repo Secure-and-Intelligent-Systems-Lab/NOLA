@@ -1,8 +1,8 @@
 # NOLA
 
-Due to some data compression issues faced by Windows users, we have removed the files temporarily. We will be updating the files and make them available here https://usf.box.com/s/urj8c65lrell37oi2dzuno47jgout810 
 
-<!-- Repository for the NOLA dataset proposed in our paper Rethinking Video Anomaly Detection-A Continual Learning Approach.
+
+Repository for the NOLA dataset proposed in our paper Rethinking Video Anomaly Detection-A Continual Learning Approach.
 
 ![scalars_tensorboard](figures/cl_framework.png)
 
@@ -40,5 +40,4 @@ Please manually download the dataset from https://usf.box.com/s/urj8c65lrell37oi
 
 ![scalars_tensorboard](figures/alarm.png)
 
-## 4. Testing on saved models
- -->
+
