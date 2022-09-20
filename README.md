@@ -34,7 +34,7 @@ Cudnn 6.0
 Ubuntu 14.04 or 16.04, Centos 7 and other distributions.
 ```
 ## 2. Download datasets
-Please manually download the dataset from https://usf.box.com/s/urj8c65lrell37oi2dzuno47jgout810 and extract it, and move them in to **Data** folder.
+Please manually download the dataset from [https://noladataset.s3.us-west-2.amazonaws.com/NOLA.zip](https://noladataset.s3.us-west-2.amazonaws.com/NOLA.zip) and extract it, and move them in to **Data** folder.
 
 ## 3. Proposed Average Precision Delay Metric
 
