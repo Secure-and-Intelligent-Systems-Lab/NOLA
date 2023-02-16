@@ -40,4 +40,11 @@ Please manually download the dataset from [https://noladataset.s3.us-west-2.amaz
 
 ![scalars_tensorboard](figures/alarm.png)
 
+## 4. Run the approach for a certain stage/split
+
+```shell
+python main.py $split
+python main.py 1
+```
+Please note that you might need to adjust the knn threshold and number of epochs as you progress through the CL-stages since the available data size keeps on increasing. The parameters are already optimized for stage 1. 
 
